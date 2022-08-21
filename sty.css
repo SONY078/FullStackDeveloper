@@ -1101,3 +1101,19 @@ nav{
 }
 
   }
+ @media (max-width: 400px)
+  {
+    #home
+    {
+        left: 20px;
+    }
+    #sub-home
+    {
+        width: 390px;
+    }
+    #sub-about
+    {
+        position: relative;
+        left: 20px;
+    }
+}
